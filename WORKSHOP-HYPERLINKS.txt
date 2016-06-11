@@ -1,0 +1,24 @@
+﻿HYPERLINKS FROM WORKSHOP:
+
+
+1. Sunlight Foundation:
+
+-http://sunlightfoundation.com/
+-http://capitolwords.org/?terma=iraq&termb=afghanistan
+
+
+2. DATA.GOV:
+-http://catalog.data.gov/dataset/consumer-price-index-average-price-data
+-http://www.bls.gov/developers/api_python.htm
+
+
+3. Google API Client:
+-https://developers.google.com/api-client-library/
+-https://code.google.com/archive/p/prettytable/
+
+(!pip install google-api-python-client)
+
+
+4. Other Reads:
+-http://www.makeuseof.com/tag/api-good-technology-explained/
+-https://realpython.com/blog/python/api-integration-in-python/
